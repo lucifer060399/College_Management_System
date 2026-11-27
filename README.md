@@ -1,8 +1,8 @@
-\# College Management \& Student Performance Analytics System
+# College Management & Student Performance Analytics System
 
 
 
-\## Project Overview
+## Project Overview
 
 A Python-based application designed to manage college student records, attendance, examination marks, and academic performance.
 
@@ -12,41 +12,41 @@ The system aims to simplify academic record management and provide useful insigh
 
 
 
-\## Objectives
+## Objectives
 
-\- Manage student information.
+- Manage student information.
 
-\- Manage courses and subjects.
+- Manage courses and subjects.
 
-\- Track student attendance.
+- Track student attendance.
 
-\- Record examination marks.
+- Record examination marks.
 
-\- Calculate grades and academic performance.
+- Calculate grades and academic performance.
 
-\- Generate analytical reports.
-
-
-
-\## Technologies
-
-\- Python
-
-\- SQLite
-
-\- SQL
-
-\- Pandas
-
-\- Matplotlib
-
-\- Git
-
-\- GitHub
+- Generate analytical reports.
 
 
 
-\## Project Structure
+## Technologies
+
+- Python
+
+- SQLite
+
+- SQL
+
+- Pandas
+
+- Matplotlib
+
+- Git
+
+- GitHub
+
+
+
+## Project Structure
 
 ```text
 
@@ -76,25 +76,25 @@ College\_Management\_System/
 
 
 
-\## Development Status
+## Development Status
 
 Project setup in progress.
 
 
 
-\## Future Enhancements
+## Future Enhancements
 
-\- Student performance dashboards.
+- Student performance dashboards.
 
-\- Automated report generation.
+- Automated report generation.
 
-\- Data export functionality.
+- Data export functionality.
 
-\- Application GUI.
+- Application GUI.
 
 
 
-\## Author
+## Author
 
 Python Development Project
 
