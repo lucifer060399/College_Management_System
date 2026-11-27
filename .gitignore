@@ -24,3 +24,7 @@ env/
 # Operating system files
 .DS_Store
 Thumbs.db
+
+# Generated analytics exports
+exports/*.csv
+exports/*.png
